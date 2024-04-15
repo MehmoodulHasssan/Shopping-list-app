@@ -35,7 +35,7 @@ function insertBeforeItem() {
 }
 
 insertElement();
-
+let shoppingUi = 6;
 /*
 <!-- beforebegin -->
 <p>
